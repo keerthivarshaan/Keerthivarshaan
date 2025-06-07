@@ -9,7 +9,7 @@
   
 
 <h3 align="left"> 📫 Connect with me:</h3>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">  Keerthi Varshaan</a>
+💼 LinkedIn : <a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">  Keerthi Varshaan</a>
  <p align="left">
 </p>
 
