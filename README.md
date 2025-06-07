@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G.Keerthi Varshaan</h1>
-<h3 align="center"> " An enthusiastic developer with a strong foundation in Python and web technologies " </h3>
+<h3 align="center"> " An enthusiastic developer with a strong foundation in Python, SQL and web technologies " </h3>
 
 - 📫 How to reach me **keerthitnj2004@gmail.com**
 - 🎓 I recently graduated and I'm building a strong foundation in software development.
