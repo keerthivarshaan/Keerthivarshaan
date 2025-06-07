@@ -8,10 +8,8 @@
 - 📈 My goal is to become a full-stack developer and work on impactful, user-focused applications.
   
 
-<h3 align="left">Connect with me:</h3>
-## 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">💼 LinkedIn: Keerthi Varshaan</a>
+<h3 align="left"> 📫 Connect with me:</h3>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">  Keerthi Varshaan</a>
  <p align="left">
 </p>
 
