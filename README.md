@@ -4,13 +4,15 @@
 - 📫 How to reach me **keerthitnj2004@gmail.com**
 - 🎓 I recently graduated and I'm building a strong foundation in software development.
 - 💡 I love turning ideas into real projects with clean code and creativity.
-- 
-
-   
-
+- 🧠 Currently, I'm building my skills in Python, Oracle SQL, HTML, and CSS
+- 📈 My goal is to become a full-stack developer and work on impactful, user-focused applications.
+  
 
 <h3 align="left">Connect with me:</h3>
-- 💼  LinkedIn: Keerthi Varshaan (https://www.linkedin.com/in/keerthivarshaan/) <p align="left">
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">💼 LinkedIn: Keerthi Varshaan</a>
+ <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
