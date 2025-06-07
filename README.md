@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 💼 [LinkedIn: Keerthi Varshaan](https://www.linkedin.com/in/keerthivarshaan/) <p align="left">
+- 💼  LinkedIn: Keerthi Varshaan (https://www.linkedin.com/in/keerthivarshaan/) <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
