@@ -7,8 +7,7 @@
 - 🧠 Currently, I'm building my skills in Python, Oracle SQL, HTML, and CSS.
 - 📈 My goal is to become a skilled software developer who builds impactful, real-world software solutions.
 
-.
-  
+
 
 <h3 align="left"> 📫 Connect with me:</h3>
  💼 LinkedIn : <a href="https://www.linkedin.com/in/keerthivarshaan/" target="_blank">  Keerthi Varshaan</a>
