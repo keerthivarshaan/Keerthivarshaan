@@ -4,8 +4,10 @@
 - 📫 How to reach me **keerthitnj2004@gmail.com**
 - 🎓 I recently graduated and I'm building a strong foundation in software development.
 - 💡 I love turning ideas into real projects with clean code and creativity.
-- 🧠 Currently, I'm building my skills in Python, Oracle SQL, HTML, and CSS
-- 📈 My goal is to become a full-stack developer and work on impactful, user-focused applications.
+- 🧠 Currently, I'm building my skills in Python, Oracle SQL, HTML, and CSS.
+- 📈 My goal is to become a skilled software developer who builds impactful, real-world software solutions.
+
+.
   
 
 <h3 align="left"> 📫 Connect with me:</h3>
